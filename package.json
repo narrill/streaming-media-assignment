@@ -1,0 +1,27 @@
+{
+  "name": "streaming-media-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C./sr\u001b[2~c/\u001b[2~server.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.6.1",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0"
+  },
+  "scripts": {
+  	"start": "node ./src/server.js",
+  	"pretest": "eslint ./src --fix",
+    "test": "echo \"Tests complete\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narrill/streaming-media-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narrill/streaming-media-assignment/issues"
+  },
+  "homepage": "https://github.com/narrill/streaming-media-assignment#readme"
+}
